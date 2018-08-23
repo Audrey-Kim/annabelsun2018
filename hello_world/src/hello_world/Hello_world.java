@@ -1,3 +1,4 @@
+package src.hello_world;
 
 /**
  * Print out a message saying Hello~
